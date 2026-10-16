@@ -1,5 +1,7 @@
 # Playground Superhéroes — Android Studio carlos giraldo mejia 
 
+AVISO - en mi correo mencione que no logre eliminar el archivo local.properties entre otros, aclaro que hice otro intento y esta ves si lo logre, no quice molestarlo enviando otro correo, espero me entienda
+
 Aplicación Android de lista y detalle de héroes y villanos desarrollada con Kotlin y Jetpack Compose. Esta versión añade una pestaña independiente de villanos y ocho perfiles nuevos
 
 ## Requisitos
